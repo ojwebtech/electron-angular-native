@@ -5450,10 +5450,10 @@ neo-async@^2.5.0:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.0.tgz#b9d15e4d71c6762908654b5183ed38b753340835"
   integrity sha512-MFh0d/Wa7vkKO3Y3LlacqAEeHK0mckVqzDieUKTT+KGxi+zIpeVsFxymkIiRpbpDziHc290Xr9A1O4Om7otoRA==
 
-ngx-electron@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/ngx-electron/-/ngx-electron-2.0.0.tgz#589f230af1c8dddd3f87ae86342e647b29945257"
-  integrity sha512-TmfYrBtVcXrb7kQV8xFCOhNnuhqMc4uzSyFg4+PRJPUt4khz7+sbY8UrXp/6XBASG2Op+fO40hOKyoZMEzT5XQ==
+ngx-electron@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/ngx-electron/-/ngx-electron-2.1.0.tgz#86b2e6ab8edd9cfbc35626c1a4a7aa05387c05df"
+  integrity sha512-UPsQRO+tr7GKT7JSpzA+lx+lVjcHKCDNtiMBN37rCdCH5MXbh8MnPEv+bBBdByTjv/xQ0B/f+n81g089f4UrGw==
   dependencies:
     tslib "^1.9.0"
 
